@@ -1,8 +1,3 @@
-/*
- * Author:  Marcus Feliciano, mfeliciano2021@my.fit.edu
- * Course:  CSE 1002, Section 01, Spring 2022
- * Project: Sand searching
- */
 import java.util.Scanner;
 public class Muck {
    public static void main (final String[] args) {
