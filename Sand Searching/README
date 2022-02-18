@@ -1,0 +1,12 @@
+This program will recursively fill any sand blocks given in a n by m blocks. Once done the program will return the number of groups of sand blocks.
+
+Sample Input:
+5 5
+..M.M
+.M.MM
+MMMM.
+..MM.
+MM.MM
+
+Output:
+3
